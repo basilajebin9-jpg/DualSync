@@ -46,7 +46,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](./.maveli%201.PNG)
+![Screenshot1](./maveli%201.PNG)
 *Add caption explaining what this shows*
 
 ![Screenshot2](./image2.png)

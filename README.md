@@ -2,48 +2,46 @@
 
 
 
-# [Project Name] 🎯
+# maveli run 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: DualSync
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Binsila - EMEA Arts and Science college kondotty
+- Member 2: Basila jebin k - EMEA Arts and Science college kondotty
+
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Maveli Run is an endless runner game featuring King Mahabali navigating obstacles to visit his people during Onam.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Players fall off by tripping over slippery banana leaves, dodging Onasadhya food comas, or getting stomped back to Patala by Vamana's foot!
+
+We solve it with quick-jump gravity physics to clear obstacles and Pookkalam power-ups for temporary invincibility.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Languages used: JavaScript (ES6+), HTML5, CSS3
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Frameworks used: Canvas API / Phaser.js (pick whichever applies)
+
+Tools used: VS Code, Git, GitHub, Chrome DevTools
+
 
 ### Implementation
 For Software:
+
 # Installation
-[commands]
 
-# Run
-[commands]
-
+  git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/maveli-run.git
+  cd maveli-run
 ### Project Documentation
 For Software:
 

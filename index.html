@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Maveli Run</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="game-container">
+
+<div class="top-bar">
+<div class="logo">👑 MAVELI RUN</div>
+<div class="score">SCORE: <span id="score">0</span></div>
+</div>
+
+<canvas id="gameCanvas" width="1000" height="500"></canvas>
+
+<div id="startScreen" class="screen">
+
+<div class="start-box">
+<button id="startButton">START</button>
+<div class="hint-text">⬆️ <b>UP ARROW / W</b> to JUMP &nbsp;•&nbsp; ⬇️ <b>DOWN ARROW / S</b> to DUCK</div>
+</div>
+
+</div>
+
+<div id="gameOverScreen" class="screen hidden">
+
+<div class="game-over-box">
+
+<h1>GAME OVER</h1>
+
+<div class="final-score">
+SCORE: <span id="finalScore">0</span>
+</div>
+
+<button id="restartButton">TRY AGAIN</button>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="game.js"></script>
+
+</body>
+</html>
